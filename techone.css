@@ -13,7 +13,7 @@ background-color: #E4A311;
 
 
 
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 100%){
 header, .paragragh1, h1, .paragragh2, section, h2, .paragragh3, footer, .footer1, .footer2{
 background-color: purple;
 color: #DADA2F;
