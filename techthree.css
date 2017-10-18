@@ -13,7 +13,7 @@ letter-spacing: 1.5px;
 }
 
 <!-- Sass -->
-.head{
+.he{
 font: arial;
 width: 1280px;
 height: 530px;
@@ -22,14 +22,33 @@ font-weight: 800px;
 letter-spacing: 2.5;
 text-align: left;
 color: white;
-
 }
 
+<!-- Sass -->
+.art{
+width: 1103px;
+height: 479px;
+background-color: #FBCC11;
+}
 
+<!-- Sass -->
+.lil1{
+width: 220px;
+height: 54px;
+background-color: #EE2300;
+}
 
+<!-- Sass -->
+.lil3{
+width: 160px;
+height: 54px;
+background-color: #EE2300;
+}
 
-
-
+<!-- Sass -->
+.art2{
+  
+}
 
 
 @media only screen and (max-width: 100%){
