@@ -1,5 +1,27 @@
 body{
-width: 350px;
-height: 2031px;
+width: 1280px;
+height: 1056px;
 background-color: #E4A311;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 100%){
+header, .paragragh1, h1, .paragragh2, section, h2, .paragragh3, footer, .footer1, .footer2{
+background-color: purple;
+color: #DADA2F;
+display: block;
+width: 100%;
+height: 100%;
+margin: 0 auto;
+font: Arial;
+font-size: 15px;
+  }
 }
