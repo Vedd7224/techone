@@ -47,9 +47,93 @@ background-color: #EE2300;
 
 <!-- Sass -->
 .art2{
-  
+width: 270px;
+height: 323px;
+font-family:DroidSerif;
+font-size: 23px;
+font-weight: bold;
+line-height: 1.73;
+letter-spacing: 1.5px;
+text-align: left;
+color: #260601;
 }
 
+<!-- Sass -->
+.art3{
+width: 618px;
+height: 193px;
+font-family: DroidSerif;
+font-size: 19px;
+line-height: 1.8px;
+letter-spacing: 1.0px;
+text-align: left;
+color: black;
+}
+
+<!-- Sass -->
+.art4{
+width: 190px;
+height: 163px;
+font-family: DroidSerif;
+font-size: 24px;
+font-weight: bold;
+line-height: 1.73;
+letter-spacing: 1.3px;
+text-align: left;
+color: #801300;
+}
+
+<!-- Sass -->
+.cp{
+width: 1283px;
+height: 235px;
+font-family: DroidSerif;
+font-size: 18px;
+line-height: 1.7;
+letter-spacing: 1.0px;
+text-align: left;
+color: #9E9290;
+}
+
+<!-- Sass -->
+article{
+width: 624px;
+height: 727px;
+font-family: DroidSerif;
+font-size: 19px;
+line-height: 1.7px;
+text-align: left;
+color: black;
+}
+
+<!-- Sass -->
+.sec{
+width: 1283px;
+height: 233px;
+}
+
+.pep{
+width: 613px;
+height: 63px;
+font-family: DroidSerif;
+font-size: 19px;
+line-height: 1.7;
+letter-spacing: 1.0px;
+text-align: left;
+color: #AEADAD;
+}
+
+<!-- Sass -->
+footer{
+width: 1093px;
+height: 22px;
+font-family: Lato;
+font-size: 23px;
+line-height: 1.37;
+letter-spacing: 1.5px;
+text-align: left;
+color: #AEADAD;
+}
 
 @media only screen and (max-width: 100%){
 header, .paragragh1, h1, .paragragh2, section, h2, .paragragh3, footer, .footer1, .footer2{
