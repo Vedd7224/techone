@@ -13,7 +13,7 @@ letter-spacing: 1.5px;
 }
 
 <!-- Sass -->
-.he{
+.head{
 font: arial;
 width: 1280px;
 height: 530px;
@@ -32,14 +32,14 @@ background-color: #FBCC11;
 }
 
 <!-- Sass -->
-.lil1{
+.join1{
 width: 220px;
 height: 54px;
 background-color: #EE2300;
 }
 
 <!-- Sass -->
-.lil3{
+.contribute1{
 width: 160px;
 height: 54px;
 background-color: #EE2300;
@@ -84,7 +84,7 @@ color: #801300;
 }
 
 <!-- Sass -->
-.cp{
+.purpose{
 width: 1283px;
 height: 235px;
 font-family: DroidSerif;
@@ -107,12 +107,12 @@ color: black;
 }
 
 <!-- Sass -->
-.sec{
+.principles{
 width: 1283px;
 height: 233px;
 }
 
-.pep{
+.techL{
 width: 613px;
 height: 63px;
 font-family: DroidSerif;
@@ -136,9 +136,9 @@ color: #AEADAD;
 }
 
 @media only screen and (max-width: 100%){
-header, .paragragh1, h1, .paragragh2, section, h2, .paragragh3, footer, .footer1, .footer2{
-background-color: purple;
-color: #DADA2F;
+header, .head, .art, .art3, .art4, .purpose, article, .principles, .techL, footer{
+background-color: #FAB214;
+color: black;
 display: block;
 width: 100%;
 height: 100%;
